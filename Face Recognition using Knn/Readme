@@ -1,2 +1,2 @@
-skh
-
+This is a simple model using KNN, which uses haarcascade file using open cv to get the pixles of face image.
+This set of pixels is used as a vector and is used in KNN algorithm to find the nearest vector of pixel to a given vector and accordingly identify the person to which that face belongs to.
